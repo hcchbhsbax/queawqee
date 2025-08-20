@@ -1,1 +1,1 @@
-md.readme
+print("Neck Hurts")
